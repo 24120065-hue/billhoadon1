@@ -1,10 +1,10 @@
 import streamlit as st
-st.image("logo1.jpg")
+st.image("logo1.JPG")
 import pandas as pd
 from datetime import datetime
 st.set_page_config(page_title="Order Nhà Hàng", layout="wide")
  
-st.title("🍽️ Hệ thống Order Nhà Hàng - VŨ ĐỨC BÌNH")
+st.title("🍽️ Hệ thống Order Nhà Hàng - Minh Thư")
  
 # ==========================
 # Khởi tạo dữ liệu
